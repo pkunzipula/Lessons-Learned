@@ -6,4 +6,4 @@
 4. Git
 5. Bash
 6. GitBash
-7. GetBack, by the Beatles
+7. GetBack (Beatles song)
