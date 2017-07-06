@@ -1,4 +1,4 @@
-##Things I have learned at Bloc.io so far
+## Things I have learned at Bloc.io so far
 
 1. HTML
 2. CSS
